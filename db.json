@@ -1,0 +1,73 @@
+{
+  "projects": [
+    {
+      "name": "iaanwqewqr",
+      "budget": "124122123",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "aatew",
+      "budget": "14312",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 3,
+      "services": [
+        {
+          "name": "ian",
+          "cost": "3",
+          "description": "ok",
+          "id": "20983982-b3e9-4344-8b11-fb146bc61198"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "attv",
+      "budget": "1322",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "budget": "1412421",
+      "name": "iann",
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
